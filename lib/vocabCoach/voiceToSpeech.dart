@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:highlight_text/highlight_text.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 import 'constants.dart';
+import 'package:echoar_package/echoar_package.dart';
 
 class SpeechScreen extends StatefulWidget {
   @override

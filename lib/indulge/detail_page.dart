@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'data.dart';
 import 'constants.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:echoar_package/echoar_package.dart';
 
 class DetailPage extends StatelessWidget {
   final PlanetInfo planetInfo;
