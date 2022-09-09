@@ -1,18 +1,20 @@
 # iNdulge App (Android / iOS) 
-![image](https://user-images.githubusercontent.com/67383465/99884633-d1e1a380-2c55-11eb-9ef1-f9ed70246a23.png)
+Dive into new Le**AR**ning experiance
 
-# iNdulge_app
-Dive into new LeARning experiance
-
-![image](https://user-images.githubusercontent.com/67383465/99884644-da39de80-2c55-11eb-8904-5a3dbf215a8b.png)
-
-
-## Abstract
 Indulge application helps in reforming existing online education systems with feature-rich AR virtual classrooms along with a low-latency group video calling feature. It also provides a vocab coach which helps in self-assessing of one's language pronunciation. App also comes bundled with Assist feature for instant aid.
+
+![image](https://user-images.githubusercontent.com/67383465/99884633-d1e1a380-2c55-11eb-9ef1-f9ed70246a23.png)
+## Demo
+
+https://youtu.be/eSBtgpWmi-g
+
+
 
 
 
 ## Features
+
+![image](https://user-images.githubusercontent.com/67383465/99884644-da39de80-2c55-11eb-8904-5a3dbf215a8b.png)
 
 # AR Classroom
 ![image](https://user-images.githubusercontent.com/67383465/99884647-e02fbf80-2c55-11eb-8815-70963002b887.png)
@@ -34,7 +36,16 @@ It helps in self-assessing one's language pronunciation. The app displays words 
 
 App also comes integrated with an ASSIST feature that guides the users step-by-step if they either need a walkthrough on a feature or if they encounter a bug. The main advantage of this feature allows users can make use of an in-app screenshot feature with a doodle option on board with ease to contact the admin/developer hassle-free. This prevents the traditional approach
 
+## Authors
 
+ [@SudirKrishnaaRS](https://github.com/SudirKrishnaaRS)
+
+
+## Tech Stack
+
+**Framework:** Flutter
+
+**UI Libraries:** Material UI, Cupertino
 
 
 ## Getting Started
