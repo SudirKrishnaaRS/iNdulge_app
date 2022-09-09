@@ -6,7 +6,7 @@ Indulge application helps in reforming existing online education systems with fe
 ![image](https://user-images.githubusercontent.com/67383465/99884633-d1e1a380-2c55-11eb-9ef1-f9ed70246a23.png)
 ## Demo
 
-https://youtu.be/eSBtgpWmi-g
+**Click here to view the product's Features and Demo:** [YouTube](https://youtu.be/eSBtgpWmi-g)
 
 
 
