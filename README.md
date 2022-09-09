@@ -1,3 +1,4 @@
+# iNdulge App (Android / iOS) 
 ![image](https://user-images.githubusercontent.com/67383465/99884633-d1e1a380-2c55-11eb-9ef1-f9ed70246a23.png)
 
 # iNdulge_app
